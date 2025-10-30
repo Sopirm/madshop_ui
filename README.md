@@ -1,4 +1,4 @@
-# MadShop UI (Golovin)
+# MadShop UI 
 
 ![MadShop Logo](assets/images/madshop_logo.png)
 
